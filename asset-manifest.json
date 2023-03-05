@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jeeva9949.github.io/ChatApp/static/css/main.4e888f1d.css",
+    "main.js": "/jeeva9949.github.io/ChatApp/static/js/main.2ae0b98a.js",
+    "index.html": "/jeeva9949.github.io/ChatApp/index.html",
+    "main.4e888f1d.css.map": "/jeeva9949.github.io/ChatApp/static/css/main.4e888f1d.css.map",
+    "main.2ae0b98a.js.map": "/jeeva9949.github.io/ChatApp/static/js/main.2ae0b98a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e888f1d.css",
+    "static/js/main.2ae0b98a.js"
+  ]
+}
